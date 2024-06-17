@@ -1,6 +1,6 @@
 ### Hi 👋
 
-A ✨ _special_ ✨ repository for a ✨ _special_ ✨ Junior Software Developer 
+Welcome to a ✨ _special_ ✨ repository for a ✨ _special_ ✨ Junior Software Developer 
 
 - 🔭 I’m currently working on a java name collection project (to benefit the transgender community and/or new parents), developing my coding skills, a wellness podcast, and a portfolio website
 - 🌱 I’m currently learning Vue.js, REACT, Javascript, Python
